@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "aura-client-master",
+    "staging": "gdgnashik-37de5"
+  }
+}
